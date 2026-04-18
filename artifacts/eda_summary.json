@@ -1,0 +1,43 @@
+{
+  "row_count": 500,
+  "click_rate": 0.554,
+  "missingness": {
+    "user_id": 0.0,
+    "age": 0.0,
+    "city_tier": 0.0,
+    "income_band": 0.086,
+    "last_app_open_days_ago": 0.054,
+    "onboarding_step_completed": 0.0,
+    "linked_bank_account": 0.0,
+    "sms_parsed_transactions_30d": 0.048,
+    "past_nudges_shown": 0.0,
+    "candidate_nudges": 0.0,
+    "nudge_clicked": 0.0,
+    "past_nudges_unique_count": 0.0
+  },
+  "click_rate_by_onboarding_step": {
+    "1": 0.1316,
+    "2": 0.4545,
+    "3": 0.5083,
+    "4": 0.6429,
+    "5": 0.688
+  },
+  "click_rate_linked_bank": {
+    "0": 0.4432,
+    "1": 0.619
+  },
+  "click_rate_last_open_bucket": {
+    "0-3d": 0.6667,
+    "4-7d": 0.6697,
+    "8-14d": 0.5824,
+    "15-30d": 0.4839,
+    "31-90d": 0.1579
+  },
+  "click_rate_by_tx_bucket": {
+    "0-2": 0.3265,
+    "3-5": 0.4726,
+    "6-9": 0.6276,
+    "10-20": 0.6548,
+    "21+": 1.0
+  }
+}

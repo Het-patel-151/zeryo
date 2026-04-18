@@ -1,0 +1,362 @@
+[
+  {
+    "user_id": "user_0001",
+    "cold_start": true,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_6",
+        "hybrid_score": 0.5868,
+        "model_score": 0.5559,
+        "prior": 0.6
+      },
+      {
+        "nudge_id": "nudge_3",
+        "hybrid_score": 0.5728,
+        "model_score": 0.5559,
+        "prior": 0.58
+      },
+      {
+        "nudge_id": "nudge_9",
+        "hybrid_score": 0.5238,
+        "model_score": 0.5559,
+        "prior": 0.51
+      },
+      {
+        "nudge_id": "nudge_2",
+        "hybrid_score": 0.5098,
+        "model_score": 0.5559,
+        "prior": 0.49
+      },
+      {
+        "nudge_id": "nudge_10",
+        "hybrid_score": 0.4888,
+        "model_score": 0.5559,
+        "prior": 0.46
+      }
+    ]
+  },
+  {
+    "user_id": "user_0002",
+    "cold_start": false,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_2",
+        "hybrid_score": 0.6457,
+        "model_score": 0.7295,
+        "prior": 0.49
+      },
+      {
+        "nudge_id": "nudge_10",
+        "hybrid_score": 0.6352,
+        "model_score": 0.7295,
+        "prior": 0.46
+      },
+      {
+        "nudge_id": "nudge_8",
+        "hybrid_score": 0.5132,
+        "model_score": 0.7295,
+        "prior": 0.54
+      },
+      {
+        "nudge_id": "nudge_9",
+        "hybrid_score": 0.5027,
+        "model_score": 0.7295,
+        "prior": 0.51
+      },
+      {
+        "nudge_id": "nudge_7",
+        "hybrid_score": 0.4887,
+        "model_score": 0.7295,
+        "prior": 0.47
+      }
+    ]
+  },
+  {
+    "user_id": "user_0003",
+    "cold_start": false,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_6",
+        "hybrid_score": 0.5498,
+        "model_score": 0.5228,
+        "prior": 0.6
+      },
+      {
+        "nudge_id": "nudge_4",
+        "hybrid_score": 0.5358,
+        "model_score": 0.5228,
+        "prior": 0.56
+      },
+      {
+        "nudge_id": "nudge_9",
+        "hybrid_score": 0.5183,
+        "model_score": 0.5228,
+        "prior": 0.51
+      },
+      {
+        "nudge_id": "nudge_5",
+        "hybrid_score": 0.4938,
+        "model_score": 0.5228,
+        "prior": 0.44
+      },
+      {
+        "nudge_id": "nudge_10",
+        "hybrid_score": 0.3508,
+        "model_score": 0.5228,
+        "prior": 0.46
+      }
+    ]
+  },
+  {
+    "user_id": "user_0004",
+    "cold_start": false,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_3",
+        "hybrid_score": 0.6861,
+        "model_score": 0.7432,
+        "prior": 0.58
+      },
+      {
+        "nudge_id": "nudge_4",
+        "hybrid_score": 0.6791,
+        "model_score": 0.7432,
+        "prior": 0.56
+      },
+      {
+        "nudge_id": "nudge_9",
+        "hybrid_score": 0.6616,
+        "model_score": 0.7432,
+        "prior": 0.51
+      },
+      {
+        "nudge_id": "nudge_2",
+        "hybrid_score": 0.5046,
+        "model_score": 0.7432,
+        "prior": 0.49
+      },
+      {
+        "nudge_id": "nudge_5",
+        "hybrid_score": 0.4871,
+        "model_score": 0.7432,
+        "prior": 0.44
+      }
+    ]
+  },
+  {
+    "user_id": "user_0005",
+    "cold_start": false,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_4",
+        "hybrid_score": 0.3325,
+        "model_score": 0.2101,
+        "prior": 0.56
+      },
+      {
+        "nudge_id": "nudge_8",
+        "hybrid_score": 0.3255,
+        "model_score": 0.2101,
+        "prior": 0.54
+      },
+      {
+        "nudge_id": "nudge_1",
+        "hybrid_score": 0.3185,
+        "model_score": 0.2101,
+        "prior": 0.52
+      },
+      {
+        "nudge_id": "nudge_2",
+        "hybrid_score": 0.308,
+        "model_score": 0.2101,
+        "prior": 0.49
+      },
+      {
+        "nudge_id": "nudge_5",
+        "hybrid_score": 0.2905,
+        "model_score": 0.2101,
+        "prior": 0.44
+      }
+    ]
+  },
+  {
+    "user_id": "user_0006",
+    "cold_start": false,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_8",
+        "hybrid_score": 0.51,
+        "model_score": 0.4939,
+        "prior": 0.54
+      },
+      {
+        "nudge_id": "nudge_1",
+        "hybrid_score": 0.503,
+        "model_score": 0.4939,
+        "prior": 0.52
+      },
+      {
+        "nudge_id": "nudge_7",
+        "hybrid_score": 0.4855,
+        "model_score": 0.4939,
+        "prior": 0.47
+      },
+      {
+        "nudge_id": "nudge_10",
+        "hybrid_score": 0.482,
+        "model_score": 0.4939,
+        "prior": 0.46
+      },
+      {
+        "nudge_id": "nudge_3",
+        "hybrid_score": 0.374,
+        "model_score": 0.4939,
+        "prior": 0.58
+      }
+    ]
+  },
+  {
+    "user_id": "user_0007",
+    "cold_start": false,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_6",
+        "hybrid_score": 0.5383,
+        "model_score": 0.5051,
+        "prior": 0.6
+      },
+      {
+        "nudge_id": "nudge_3",
+        "hybrid_score": 0.5313,
+        "model_score": 0.5051,
+        "prior": 0.58
+      },
+      {
+        "nudge_id": "nudge_8",
+        "hybrid_score": 0.5173,
+        "model_score": 0.5051,
+        "prior": 0.54
+      },
+      {
+        "nudge_id": "nudge_1",
+        "hybrid_score": 0.5103,
+        "model_score": 0.5051,
+        "prior": 0.52
+      },
+      {
+        "nudge_id": "nudge_7",
+        "hybrid_score": 0.4928,
+        "model_score": 0.5051,
+        "prior": 0.47
+      }
+    ]
+  },
+  {
+    "user_id": "user_0008",
+    "cold_start": false,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_4",
+        "hybrid_score": 0.4264,
+        "model_score": 0.3545,
+        "prior": 0.56
+      },
+      {
+        "nudge_id": "nudge_8",
+        "hybrid_score": 0.4194,
+        "model_score": 0.3545,
+        "prior": 0.54
+      },
+      {
+        "nudge_id": "nudge_2",
+        "hybrid_score": 0.4019,
+        "model_score": 0.3545,
+        "prior": 0.49
+      },
+      {
+        "nudge_id": "nudge_5",
+        "hybrid_score": 0.3844,
+        "model_score": 0.3545,
+        "prior": 0.44
+      },
+      {
+        "nudge_id": "nudge_7",
+        "hybrid_score": 0.2449,
+        "model_score": 0.3545,
+        "prior": 0.47
+      }
+    ]
+  },
+  {
+    "user_id": "user_0009",
+    "cold_start": true,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_3",
+        "hybrid_score": 0.6242,
+        "model_score": 0.7274,
+        "prior": 0.58
+      },
+      {
+        "nudge_id": "nudge_4",
+        "hybrid_score": 0.6102,
+        "model_score": 0.7274,
+        "prior": 0.56
+      },
+      {
+        "nudge_id": "nudge_8",
+        "hybrid_score": 0.5962,
+        "model_score": 0.7274,
+        "prior": 0.54
+      },
+      {
+        "nudge_id": "nudge_1",
+        "hybrid_score": 0.5822,
+        "model_score": 0.7274,
+        "prior": 0.52
+      },
+      {
+        "nudge_id": "nudge_10",
+        "hybrid_score": 0.5402,
+        "model_score": 0.7274,
+        "prior": 0.46
+      }
+    ]
+  },
+  {
+    "user_id": "user_0010",
+    "cold_start": false,
+    "ranked_nudges": [
+      {
+        "nudge_id": "nudge_8",
+        "hybrid_score": 0.5811,
+        "model_score": 0.6032,
+        "prior": 0.54
+      },
+      {
+        "nudge_id": "nudge_1",
+        "hybrid_score": 0.5741,
+        "model_score": 0.6032,
+        "prior": 0.52
+      },
+      {
+        "nudge_id": "nudge_6",
+        "hybrid_score": 0.4521,
+        "model_score": 0.6032,
+        "prior": 0.6
+      },
+      {
+        "nudge_id": "nudge_10",
+        "hybrid_score": 0.4031,
+        "model_score": 0.6032,
+        "prior": 0.46
+      },
+      {
+        "nudge_id": "nudge_5",
+        "hybrid_score": 0.3961,
+        "model_score": 0.6032,
+        "prior": 0.44
+      }
+    ]
+  }
+]

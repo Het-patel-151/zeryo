@@ -1,0 +1,42 @@
+{
+  "threshold_selected_for_f1": 0.33999999999999997,
+  "train_f1_at_threshold": 0.7374517374517374,
+  "precision": 0.65,
+  "recall": 0.9420289855072463,
+  "f1": 0.7692307692307693,
+  "roc_auc": 0.7116977225672878,
+  "top_predictive_features": [
+    {
+      "feature": "num__onboarding_step_completed",
+      "coefficient": 0.4820690748988309
+    },
+    {
+      "feature": "num__last_app_open_days_ago",
+      "coefficient": -0.4442984202069886
+    },
+    {
+      "feature": "cat__city_tier_tier_3",
+      "coefficient": -0.2009763348050364
+    },
+    {
+      "feature": "cat__income_band_high",
+      "coefficient": 0.18900994024379347
+    },
+    {
+      "feature": "cat__city_tier_tier_1",
+      "coefficient": 0.1849096961167676
+    },
+    {
+      "feature": "cat__income_band_low",
+      "coefficient": -0.17021976867520838
+    },
+    {
+      "feature": "num__linked_bank_account",
+      "coefficient": 0.1495956187905248
+    },
+    {
+      "feature": "num__age",
+      "coefficient": 0.04477535661254111
+    }
+  ]
+}
