@@ -1,6 +1,6 @@
 # Zeyro Assignment
 
-Complete solution for the Zeyro ML Engineer take-home:
+Solution for the Zeyro ML Engineer take-home:
 - synthetic dataset generation,
 - feature engineering + EDA,
 - click prediction model with evaluation,
